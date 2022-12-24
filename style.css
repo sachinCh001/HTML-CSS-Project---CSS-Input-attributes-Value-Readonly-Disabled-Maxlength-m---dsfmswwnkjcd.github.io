@@ -65,6 +65,7 @@ nav ul li {
 }
 
 nav ul li:hover, nav ul li.active {
+	color: black;
 	color: #44ad4e;
 }
 
